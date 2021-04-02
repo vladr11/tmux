@@ -41,17 +41,17 @@ main()
   show_refresh=$(get_tmux_option "@dracula-refresh-rate" 5)
 
   # Dracula Color Pallette
-  white='#f8f8f2'
-  gray='#44475a'
-  dark_gray='#282a36'
-  light_purple='#bd93f9'
-  dark_purple='#6272a4'
-  cyan='#8be9fd'
-  green='#50fa7b'
-  orange='#ffb86c'
-  red='#ff5555'
-  pink='#ff79c6'
-  yellow='#f1fa8c'
+  white='#ebdbb2'
+  gray='#222222'
+  dark_gray='#121212'
+  light_purple='#83a597'
+  dark_purple='#448488'
+  cyan='#689d69'
+  green='#989719'
+  orange='#d65c0d'
+  red='#cc231c'
+  pink='#b16185'
+  yellow='#d79920'
 
 
   # Handle left icon configuration
